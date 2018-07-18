@@ -1,4 +1,4 @@
-## Testing Header
+## Some Header
 
 * Hello world!
 
